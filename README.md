@@ -12,6 +12,7 @@
 openjdk version "25.0.4" 2026-07-21
 OpenJDK Runtime Environment (build 25.0.4+7-1-26.04-Ubuntu)
 OpenJDK 64-Bit Server VM (build 25.0.4+7-1-26.04-Ubuntu, mixed mode, sharing)
+```
 
 ### Maven Version
 ```text
@@ -20,6 +21,7 @@ Maven home: /usr/share/maven
 Java version: 25.0.4, vendor: Ubuntu, runtime: /usr/lib/jvm/java-25-openjdk-amd64
 Default locale: en, platform encoding: UTF-8
 OS name: "linux", version: "6.18.33.2-microsoft-standard-wsl2", arch: "amd64", family: "unix"
+```
 
 ## 2. Тестийн статистик ба үр дүн
 Тестийн методын тоо: 9 метод
